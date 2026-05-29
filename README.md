@@ -32,31 +32,7 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,java,python,html,css" />
-</p>
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,azure" />
+<img src="https://skillicons.dev/icons?i=js,java,python,html,css,react,bootstrap,nodejs,express,mysql,postgresql,git,github,vscode,figma,npm,azure" />
 </p>
 
 ---
