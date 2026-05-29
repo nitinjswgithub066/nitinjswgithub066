@@ -74,19 +74,28 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nitinjswgithub066&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180em" 
+  />
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img 
+ src="https://github-readme-streak-stats-eight.vercel.app/?user=nitinjswgithub066&theme=tokyonight&hide_border=true" 
+ height="180em" 
+/>
+
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinjswgithub066&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180em" 
+  />
 </p>
-
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://portfolio-nitinjsw.me" target="_blank">
     <img src="https://skillicons.dev/icons?i=webflow" height="50" alt="Portfolio"/>
   </a>
@@ -99,7 +108,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
   </a>
 </p>
-
 
 ## ✨ Favourite Quotes
 
