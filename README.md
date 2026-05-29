@@ -2,12 +2,12 @@
 
 <h3 align="center">Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
-<p align="center">
+<p align="justify">
   Passionate about building scalable web applications, developer platforms, and impactful technology solutions.  
   I enjoy solving real-world problems through code and exploring ideas in Web Applications, SaaS, developer ecosystems, and innovative business-driven tech products.
 </p>
 
-<p align="center">
+<p align="left">
   🚀 Open to collaboration on exciting projects, innovative ideas, and development opportunities.
 </p>
 
@@ -50,7 +50,7 @@
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 ### Tools & Platforms
@@ -71,34 +71,6 @@
 
 🚀 Building scalable and production-ready applications
 
----
-
-## 🏆 Achievements
-
-🏅 Finalist — **Hack With Uttar Pradesh** (Selected among 500+ participants)
-
-🥈 **SIH Internal Hackathon** — Secured Second Position in College
-
-🤖 Built AI/ML projects with **90%+ accuracy** using Computer Vision & Deep Learning
-
----
-
-## 🚀 Featured Projects
-
-### 📌 Classroom Monitoring System
-
-AI-powered classroom monitoring system using **YOLO, OpenCV, Deep Learning**, and Computer Vision for attendance tracking and behavior analysis.
-
-### 📌 Crop & Fertilizer Recommendation System
-
-Machine Learning-based recommendation system using **Python, NumPy, Pandas, and Decision Tree Classifier** to suggest suitable crops and fertilizers.
-
-### 📌 Portfolio Website
-
-A responsive portfolio showcasing projects, skills, and development journey.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -113,17 +85,22 @@ A responsive portfolio showcasing projects, skills, and development journey.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
----
-
 ## 🌐 Connect With Me
 
-📌 Portfolio: **Add Your Portfolio Link**
+<p align="center">
+  <a href="https://portfolio-nitinjsw.me" target="_blank">
+    <img src="https://skillicons.dev/icons?i=webflow" height="50" alt="Portfolio"/>
+  </a>
 
-💼 LinkedIn: **Add Your LinkedIn Link**
+  <a href="https://linkedin.com/in/nitin-jaiswal-" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+  </a>
 
-📧 Email: **Add Your Email**
+  <a href="mailto:nitinjsw17@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
+  </a>
+</p>
 
----
 
 ## ✨ Favourite Quotes
 
